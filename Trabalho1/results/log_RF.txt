@@ -1,0 +1,80 @@
+[RF] dobra 0 Prior          0.0s AUC=0.5000 F1mi=0.7815
+[RF] dobra 0 BR            12.5s AUC=0.7274 F1mi=0.7996
+[RF] dobra 0 LP            11.0s AUC=0.7179 F1mi=0.8050
+[RF] dobra 0 CC x10 ok; ECC-nb AUC=0.7497
+[RF] dobra 0 EBR          110.1s AUC=0.7211 F1mi=0.8009
+[RF] dobra 0 ECC          109.8s AUC=0.7355 F1mi=0.8041
+[RF] dobra 0 RAkEL         28.8s AUC=0.7264 F1mi=0.8002
+[RF] dobra 0 Stacked-BR    64.3s AUC=0.7172 F1mi=0.8014
+[RF] dobra 1 Prior          0.0s AUC=0.5000 F1mi=0.8090
+[RF] dobra 1 BR            14.0s AUC=0.6948 F1mi=0.7984
+[RF] dobra 1 LP            11.1s AUC=0.6862 F1mi=0.8143
+[RF] dobra 1 CC x10 ok; ECC-nb AUC=0.6825
+[RF] dobra 1 EBR          113.2s AUC=0.6938 F1mi=0.8039
+[RF] dobra 1 ECC          106.2s AUC=0.6886 F1mi=0.7985
+[RF] dobra 1 RAkEL         26.6s AUC=0.6973 F1mi=0.8014
+[RF] dobra 1 Stacked-BR    57.4s AUC=0.6665 F1mi=0.7996
+[RF] dobra 2 Prior          0.0s AUC=0.5000 F1mi=0.8085
+[RF] dobra 2 BR            10.5s AUC=0.6588 F1mi=0.8096
+[RF] dobra 2 LP            11.1s AUC=0.6488 F1mi=0.8132
+[RF] dobra 2 CC x10 ok; ECC-nb AUC=0.6668
+[RF] dobra 2 EBR          106.7s AUC=0.6652 F1mi=0.8094
+[RF] dobra 2 ECC           99.4s AUC=0.6621 F1mi=0.8116
+[RF] dobra 2 RAkEL         25.7s AUC=0.6689 F1mi=0.8066
+[RF] dobra 2 Stacked-BR    57.6s AUC=0.6565 F1mi=0.8110
+[RF] dobra 3 Prior          0.0s AUC=0.5000 F1mi=0.8210
+[RF] dobra 3 BR            10.0s AUC=0.7016 F1mi=0.8186
+[RF] dobra 3 LP            10.9s AUC=0.7028 F1mi=0.8237
+[RF] dobra 3 CC x10 ok; ECC-nb AUC=0.6891
+[RF] dobra 3 EBR           97.0s AUC=0.7030 F1mi=0.8220
+[RF] dobra 3 ECC           97.3s AUC=0.6924 F1mi=0.8243
+[RF] dobra 3 RAkEL         24.8s AUC=0.6923 F1mi=0.8208
+[RF] dobra 3 Stacked-BR    57.2s AUC=0.6752 F1mi=0.8210
+[RF] dobra 4 Prior          0.0s AUC=0.5000 F1mi=0.8102
+[RF] dobra 4 BR            11.3s AUC=0.6994 F1mi=0.8159
+[RF] dobra 4 LP            11.1s AUC=0.7156 F1mi=0.8236
+[RF] dobra 4 CC x10 ok; ECC-nb AUC=0.6939
+[RF] dobra 4 EBR          101.0s AUC=0.6976 F1mi=0.8187
+[RF] dobra 4 ECC           98.3s AUC=0.6950 F1mi=0.8225
+[RF] dobra 4 RAkEL         26.4s AUC=0.7112 F1mi=0.8175
+[RF] dobra 4 Stacked-BR    58.8s AUC=0.6792 F1mi=0.8179
+[RF] dobra 5 Prior          0.0s AUC=0.5000 F1mi=0.7946
+[RF] dobra 5 BR            10.4s AUC=0.6860 F1mi=0.8181
+[RF] dobra 5 LP            12.2s AUC=0.6999 F1mi=0.8172
+[RF] dobra 5 CC x10 ok; ECC-nb AUC=0.6963
+[RF] dobra 5 EBR          160.3s AUC=0.6774 F1mi=0.8208
+[RF] dobra 5 ECC          149.3s AUC=0.6798 F1mi=0.8250
+[RF] dobra 5 RAkEL         28.1s AUC=0.6981 F1mi=0.8241
+[RF] dobra 5 Stacked-BR    65.1s AUC=0.6587 F1mi=0.8125
+[RF] dobra 6 Prior          0.0s AUC=0.5000 F1mi=0.7889
+[RF] dobra 6 BR            11.3s AUC=0.6437 F1mi=0.7873
+[RF] dobra 6 LP            11.2s AUC=0.6505 F1mi=0.7957
+[RF] dobra 6 CC x10 ok; ECC-nb AUC=0.6470
+[RF] dobra 6 EBR          108.1s AUC=0.6459 F1mi=0.7918
+[RF] dobra 6 ECC          157.4s AUC=0.6439 F1mi=0.7915
+[RF] dobra 6 RAkEL         44.7s AUC=0.6547 F1mi=0.7943
+[RF] dobra 6 Stacked-BR    96.2s AUC=0.6490 F1mi=0.7992
+[RF] dobra 7 Prior          0.0s AUC=0.5000 F1mi=0.8027
+[RF] dobra 7 BR            15.0s AUC=0.6687 F1mi=0.8069
+[RF] dobra 7 LP            24.4s AUC=0.6740 F1mi=0.8098
+[RF] dobra 7 CC x10 ok; ECC-nb AUC=0.6610
+[RF] dobra 7 EBR          151.8s AUC=0.6616 F1mi=0.8051
+[RF] dobra 7 ECC          156.4s AUC=0.6552 F1mi=0.8095
+[RF] dobra 7 RAkEL         44.0s AUC=0.6781 F1mi=0.8094
+[RF] dobra 7 Stacked-BR    97.5s AUC=0.6551 F1mi=0.8096
+[RF] dobra 8 Prior          0.0s AUC=0.5000 F1mi=0.8045
+[RF] dobra 8 BR            16.3s AUC=0.6664 F1mi=0.7962
+[RF] dobra 8 LP            23.8s AUC=0.6626 F1mi=0.8075
+[RF] dobra 8 CC x10 ok; ECC-nb AUC=0.6697
+[RF] dobra 8 EBR          159.8s AUC=0.6741 F1mi=0.8011
+[RF] dobra 8 ECC          153.9s AUC=0.6739 F1mi=0.8021
+[RF] dobra 8 RAkEL         45.1s AUC=0.6737 F1mi=0.8055
+[RF] dobra 8 Stacked-BR    91.2s AUC=0.6582 F1mi=0.8103
+[RF] dobra 9 Prior          0.0s AUC=0.5000 F1mi=0.8024
+[RF] dobra 9 BR            16.4s AUC=0.6862 F1mi=0.8092
+[RF] dobra 9 LP            26.0s AUC=0.6822 F1mi=0.8148
+[RF] dobra 9 CC x10 ok; ECC-nb AUC=0.6891
+[RF] dobra 9 EBR          137.7s AUC=0.6926 F1mi=0.8114
+[RF] dobra 9 ECC          138.4s AUC=0.6975 F1mi=0.8127
+[RF] dobra 9 RAkEL         39.0s AUC=0.6919 F1mi=0.8118
+[RF] dobra 9 Stacked-BR    82.5s AUC=0.6861 F1mi=0.8130

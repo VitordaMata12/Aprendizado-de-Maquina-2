@@ -1,0 +1,22 @@
+\multicolumn{8}{l}{\textit{Classificador base: Random Forest}}\\
+Prior (base trivial) & 0,251 & 0,004$^{\triangledown}$ & 0,663 & 0,802 & 0,587$^{\triangledown}$ & 0,500$^{\triangledown}$ & 0,111$^{\triangledown}$ \\
+BR & 0,230 & 0,025 & 0,656 & 0,806 & 0,649 & 0,683 & 0,099 \\
+LP & \textbf{0,227} & 0,023 & \textbf{0,668}$^{\blacktriangle}$ & \textbf{0,812} & 0,649 & 0,684 & 0,095 \\
+CC (1 ordem) & 0,239 & 0,029 & 0,653 & 0,803 & 0,651 & 0,666$^{\triangledown}$ & 0,107$^{\triangledown}$ \\
+CC$\times$10 (média) & 0,231 & \textbf{0,030} & 0,661 & 0,809 & \textbf{0,653} & 0,685 & 0,094$^{\blacktriangle}$ \\
+EBR & 0,228 & 0,020 & 0,660 & 0,809 & 0,641$^{\triangledown}$ & 0,683 & 0,092$^{\blacktriangle}$ \\
+ECC & 0,230 & 0,023 & 0,662$^{\blacktriangle}$ & 0,810$^{\blacktriangle}$ & 0,645 & 0,682 & 0,093$^{\blacktriangle}$ \\
+RAkEL ($k{=}3$) & 0,228 & 0,021 & 0,661 & 0,809 & 0,647 & \textbf{0,689} & \textbf{0,092}$^{\blacktriangle}$ \\
+BR empilhado & 0,229 & 0,019 & 0,663 & 0,810 & 0,637$^{\triangledown}$ & 0,670 & 0,097 \\
+ML-kNN ($k{=}10$) & 0,237 & 0,012 & 0,662 & 0,806 & 0,623$^{\triangledown}$ & 0,644 & 0,100 \\
+\midrule
+\multicolumn{8}{l}{\textit{Classificador base: Regressão Logística}}\\
+Prior (base trivial) & 0,251 & 0,004 & 0,663$^{\blacktriangle}$ & 0,802$^{\blacktriangle}$ & 0,587$^{\triangledown}$ & 0,500$^{\triangledown}$ & 0,111 \\
+BR & 0,244 & 0,008 & 0,634 & 0,791 & 0,639 & 0,651 & 0,116 \\
+LP & \textbf{0,228}$^{\blacktriangle}$ & \textbf{0,024} & \textbf{0,672}$^{\blacktriangle}$ & \textbf{0,814}$^{\blacktriangle}$ & 0,632 & \textbf{0,688}$^{\blacktriangle}$ & \textbf{0,093}$^{\blacktriangle}$ \\
+CC (1 ordem) & 0,257 & 0,011 & 0,626 & 0,786 & 0,649 & 0,639 & 0,124$^{\triangledown}$ \\
+CC$\times$10 (média) & 0,244 & 0,013 & 0,641 & 0,796 & \textbf{0,656}$^{\blacktriangle}$ & 0,656 & 0,112$^{\blacktriangle}$ \\
+EBR & 0,242 & 0,005 & 0,637 & 0,793 & 0,636 & 0,657 & 0,113$^{\blacktriangle}$ \\
+ECC & 0,240 & 0,007 & 0,643 & 0,799$^{\blacktriangle}$ & 0,650 & 0,659 & 0,109$^{\blacktriangle}$ \\
+RAkEL ($k{=}3$) & 0,240 & 0,011 & 0,641$^{\blacktriangle}$ & 0,796$^{\blacktriangle}$ & 0,644 & 0,659$^{\blacktriangle}$ & 0,110$^{\blacktriangle}$ \\
+BR empilhado & 0,235$^{\blacktriangle}$ & 0,013 & 0,659$^{\blacktriangle}$ & 0,806$^{\blacktriangle}$ & 0,620$^{\triangledown}$ & 0,651 & 0,102$^{\blacktriangle}$ \\

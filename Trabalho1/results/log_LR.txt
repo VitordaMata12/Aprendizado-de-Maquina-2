@@ -1,0 +1,73 @@
+[LR] dobra 0 já existe, pulando
+[LR] dobra 1 Prior          0.0s AUC=0.5000 F1mi=0.8090
+[LR] dobra 1 BR            10.5s AUC=0.6601 F1mi=0.7952
+[LR] dobra 1 LP            72.0s AUC=0.6883 F1mi=0.8266
+[LR] dobra 1 CC x10 ok; ECC-nb AUC=0.6659
+[LR] dobra 1 EBR           88.1s AUC=0.6632 F1mi=0.7956
+[LR] dobra 1 ECC          190.0s AUC=0.6619 F1mi=0.7984
+[LR] dobra 1 RAkEL        346.5s AUC=0.6676 F1mi=0.7998
+[LR] dobra 1 Stacked-BR    10.5s AUC=0.6588 F1mi=0.8119
+[LR] dobra 2 Prior          0.0s AUC=0.5000 F1mi=0.8085
+[LR] dobra 2 BR             1.8s AUC=0.6262 F1mi=0.7915
+[LR] dobra 2 LP            35.4s AUC=0.6599 F1mi=0.8120
+[LR] dobra 2 CC x10 ok; ECC-nb AUC=0.6310
+[LR] dobra 2 EBR           18.8s AUC=0.6235 F1mi=0.7880
+[LR] dobra 2 ECC           51.7s AUC=0.6245 F1mi=0.7978
+[LR] dobra 2 RAkEL         99.1s AUC=0.6351 F1mi=0.7967
+[LR] dobra 2 Stacked-BR     9.1s AUC=0.6382 F1mi=0.8062
+[LR] dobra 3 Prior          0.0s AUC=0.5000 F1mi=0.8210
+[LR] dobra 3 BR             1.7s AUC=0.6700 F1mi=0.8107
+[LR] dobra 3 LP            31.0s AUC=0.7010 F1mi=0.8250
+[LR] dobra 3 CC x10 ok; ECC-nb AUC=0.6968
+[LR] dobra 3 EBR           18.4s AUC=0.6834 F1mi=0.8128
+[LR] dobra 3 ECC           50.4s AUC=0.6982 F1mi=0.8290
+[LR] dobra 3 RAkEL         99.0s AUC=0.6790 F1mi=0.8157
+[LR] dobra 3 Stacked-BR     9.1s AUC=0.6769 F1mi=0.8272
+[LR] dobra 4 Prior          0.0s AUC=0.5000 F1mi=0.8102
+[LR] dobra 4 BR             1.6s AUC=0.6882 F1mi=0.8111
+[LR] dobra 4 LP            58.2s AUC=0.6960 F1mi=0.8226
+[LR] dobra 4 CC x10 ok; ECC-nb AUC=0.6985
+[LR] dobra 4 EBR           97.0s AUC=0.6873 F1mi=0.8155
+[LR] dobra 4 ECC          179.5s AUC=0.6936 F1mi=0.8212
+[LR] dobra 4 RAkEL        481.1s AUC=0.6941 F1mi=0.8143
+[LR] dobra 4 Stacked-BR    10.3s AUC=0.6743 F1mi=0.8182
+[LR] dobra 5 Prior          0.0s AUC=0.5000 F1mi=0.7946
+[LR] dobra 5 BR             1.6s AUC=0.6735 F1mi=0.7868
+[LR] dobra 5 LP            30.5s AUC=0.7214 F1mi=0.8155
+[LR] dobra 5 CC x10 ok; ECC-nb AUC=0.6691
+[LR] dobra 5 EBR           17.7s AUC=0.6764 F1mi=0.7872
+[LR] dobra 5 ECC           55.2s AUC=0.6738 F1mi=0.7912
+[LR] dobra 5 RAkEL         95.9s AUC=0.6802 F1mi=0.7916
+[LR] dobra 5 Stacked-BR    10.1s AUC=0.6477 F1mi=0.8012
+[LR] dobra 6 Prior          0.0s AUC=0.5000 F1mi=0.7889
+[LR] dobra 6 BR             1.6s AUC=0.6324 F1mi=0.7813
+[LR] dobra 6 LP            32.1s AUC=0.6709 F1mi=0.7987
+[LR] dobra 6 CC x10 ok; ECC-nb AUC=0.6322
+[LR] dobra 6 EBR           17.0s AUC=0.6359 F1mi=0.7843
+[LR] dobra 6 ECC           47.8s AUC=0.6341 F1mi=0.7936
+[LR] dobra 6 RAkEL        100.9s AUC=0.6376 F1mi=0.7833
+[LR] dobra 6 Stacked-BR     8.6s AUC=0.6158 F1mi=0.7934
+[LR] dobra 7 Prior          0.0s AUC=0.5000 F1mi=0.8027
+[LR] dobra 7 BR             1.6s AUC=0.6211 F1mi=0.7884
+[LR] dobra 7 LP            28.1s AUC=0.6772 F1mi=0.8156
+[LR] dobra 7 CC x10 ok; ECC-nb AUC=0.6211
+[LR] dobra 7 EBR           15.1s AUC=0.6281 F1mi=0.7901
+[LR] dobra 7 ECC           46.5s AUC=0.6276 F1mi=0.7919
+[LR] dobra 7 RAkEL         96.5s AUC=0.6337 F1mi=0.7899
+[LR] dobra 7 Stacked-BR     8.5s AUC=0.6263 F1mi=0.8041
+[LR] dobra 8 Prior          0.0s AUC=0.5000 F1mi=0.8045
+[LR] dobra 8 BR             1.6s AUC=0.6581 F1mi=0.7889
+[LR] dobra 8 LP            30.0s AUC=0.7016 F1mi=0.8119
+[LR] dobra 8 CC x10 ok; ECC-nb AUC=0.6652
+[LR] dobra 8 EBR           14.7s AUC=0.6691 F1mi=0.7910
+[LR] dobra 8 ECC           46.2s AUC=0.6733 F1mi=0.7916
+[LR] dobra 8 RAkEL         97.9s AUC=0.6658 F1mi=0.7938
+[LR] dobra 8 Stacked-BR     8.8s AUC=0.6566 F1mi=0.8079
+[LR] dobra 9 Prior          0.0s AUC=0.5000 F1mi=0.8024
+[LR] dobra 9 BR             1.5s AUC=0.6193 F1mi=0.7807
+[LR] dobra 9 LP            27.3s AUC=0.6456 F1mi=0.8105
+[LR] dobra 9 CC x10 ok; ECC-nb AUC=0.6153
+[LR] dobra 9 EBR           16.6s AUC=0.6360 F1mi=0.7839
+[LR] dobra 9 ECC           45.2s AUC=0.6245 F1mi=0.7886
+[LR] dobra 9 RAkEL         94.3s AUC=0.6221 F1mi=0.7839
+[LR] dobra 9 Stacked-BR     8.7s AUC=0.6393 F1mi=0.8045
